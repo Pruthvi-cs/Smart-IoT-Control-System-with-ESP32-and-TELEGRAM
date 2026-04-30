@@ -228,7 +228,9 @@ No GPIO action is performed.
        <h1>Images</h1>
   <!-- Replace 'hardware_setup.jpg' with your actual file name -->
        <p><i>ESP32 DevKit connected and ready for dual-channel control</i></p>
-  <img src="images/desktop view.png" width="500" alt="Runninng on desktop"><br><img src="images/mobile view.png" width="500" alt="Runninng on mobile"><br><img src="images/teleligram charts.png" width="500" alt="teleligram charts"><br>
+  <img src="images/desktop view.png" width="500" alt="Runninng on desktop"><br>
+       <img src="images/mobile view.jpeg" width="500" alt="Runninng on mobile"><br>
+       <img src="images/teleligram charts.jpeg" width="500" alt="teleligram charts"><br>
  
 </div>
 ---
