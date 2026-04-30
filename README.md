@@ -224,7 +224,13 @@ Unauthorized User
 No GPIO action is performed.
 
 ---
-
+<div align="center">
+       <h1>Images</h1>
+  <!-- Replace 'hardware_setup.jpg' with your actual file name -->
+  <img src="images/desktop view.png" width="500" alt="Runninng on desktop">
+  <p><i>ESP32 DevKit connected and ready for dual-channel control</i></p>
+</div>
+---
 ## 📁 Repository Structure
 
 ```
