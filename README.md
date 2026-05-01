@@ -306,7 +306,20 @@ Contributions are welcome. To contribute:
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
+## 🎥 Project Demo
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=aH8BlVmjWRg" target="_blank">
+    <img src="https://img.youtube.com/vi/aH8BlVmjWRg/hqdefault.jpg" 
+         width="600" 
+         alt="Watch the ESP32 IoT Project Demo" 
+         style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </a>
+  <br>
+  <i>▶️ Click the image above to watch the live demonstration on YouTube</i>
+</div>
+
+---
 <div align="center">
 
 **Built with ❤️ using ESP32, Arduino, and Telegram**
