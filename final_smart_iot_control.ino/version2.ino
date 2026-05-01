@@ -4,16 +4,19 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Mi11X";
-const char* password = "pruthvi@rai";
+// -----------------------------------
+// Wi-Fi Credentials
+// -----------------------------------
+
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // -----------------------------------
 // Telegram Bot Settings
 // -----------------------------------
 
-#define BOT_TOKEN "8712044124:AAHaxD38-LJnL5rHUHYIsDy1cOCGCCMTRMc"
-#define CHAT_ID "7727270908"
-
+#define BOT_TOKEN "YOUR_BOT_TOKEN"
+#define CHAT_ID "YOUR_CHAT_ID"
 // -------------------- LED --------------------
 const int ledPin = 2;
 bool ledState = false;
